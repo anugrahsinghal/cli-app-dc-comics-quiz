@@ -4,7 +4,7 @@ const log = console.log;
 const correct = chalk.green;
 const wrong = chalk.keyword('orange');
 
-let scores = [2
+let scores = [
   {
     name: "Anugrah",
     score: "3"
